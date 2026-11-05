@@ -1,0 +1,149 @@
+{
+  "id": "travers_murder",
+  "title": "The Travers Murder",
+  "language": "en",
+  "music": "Sparse crime film score, low piano and quiet strings, tense and slow, no vocals, instrumental only",
+  "pause_ms_between_segments": 420,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "The Travers murder.",
+  "voices": {
+    "narrator": {
+      "voice_id": "ErXwobaYiN019PkySvjV",
+      "name": "Antoni",
+      "description": "Narrador crime, americano",
+      "stability": 0.52,
+      "similarity_boost": 0.78,
+      "style": 0.20,
+      "speed": 0.94
+    },
+    "granger": {
+      "voice_id": "pqHfZKP75CvOlQylNhV4",
+      "name": "Bill",
+      "description": "Detetive Granger: grave, firme",
+      "stability": 0.58,
+      "similarity_boost": 0.78,
+      "style": 0.22,
+      "speed": 0.92
+    },
+    "amanda": {
+      "voice_id": "EXAVITQu4vr4xnSDxMaL",
+      "name": "Sarah",
+      "description": "Amanda: tensa, fria",
+      "stability": 0.42,
+      "similarity_boost": 0.82,
+      "style": 0.35,
+      "speed": 0.96
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "June twenty-second, nineteen sixty-five. Jeremy Travers's sixtieth birthday. He had dinner at his country house with Amanda, his wife; Barbara, his daughter; Gordon, his business partner; and Claudia, his secretary. The next morning, Amanda Travers went to her husband's bedroom. She found him dead."
+    },
+    {
+      "sfx": "Quiet old country house at night, a slow clock tick, no music, no voices",
+      "sfx_seconds": 2.0
+    },
+    {
+      "speaker": "narrator",
+      "text": "Detective Granger arrived at about nine o'clock. He was a tall man with a big mustache. Amanda, Barbara, Claudia, and Gordon were in the living room."
+    },
+    {
+      "sfx": "A heavy wooden door opens and one person steps onto a wooden floor, no music",
+      "sfx_seconds": 1.6
+    },
+    {
+      "speaker": "narrator",
+      "text": "The detective came in."
+    },
+    {
+      "speaker": "granger",
+      "text": "Mr. Travers died between midnight last night and seven o'clock this morning. Somebody in this room killed him."
+    },
+    {
+      "speaker": "narrator",
+      "text": "He looked at them one by one, but nobody spoke."
+    },
+    {
+      "speaker": "granger",
+      "text": "Mrs. Travers, I want to talk to you first. Come into the library with me, please."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Amanda followed the detective into the library and they sat down."
+    },
+    {
+      "sfx": "A wooden chair pulled back, then two people sitting, quiet room, no music",
+      "sfx_seconds": 1.4
+    },
+    {
+      "speaker": "granger",
+      "text": "What did your husband do after dinner last night?"
+    },
+    {
+      "speaker": "amanda",
+      "text": "We finished dinner at about nine thirty. Then Jeremy said he was tired and he went to bed."
+    },
+    {
+      "speaker": "granger",
+      "text": "Did you go to bed then?"
+    },
+    {
+      "speaker": "amanda",
+      "text": "No, I didn't. I went for a walk in the yard."
+    },
+    {
+      "speaker": "granger",
+      "text": "What time did you go to bed?"
+    },
+    {
+      "speaker": "amanda",
+      "text": "At about a quarter to twelve."
+    },
+    {
+      "speaker": "granger",
+      "text": "Was your husband asleep?"
+    },
+    {
+      "speaker": "amanda",
+      "text": "I don't know, Detective. We slept in different rooms. But I saw that his door was closed."
+    },
+    {
+      "speaker": "granger",
+      "text": "Did you hear anything when you were in your room?"
+    },
+    {
+      "speaker": "amanda",
+      "text": "Yes, I heard Jeremy's bedroom door. It opened. I thought it was Jeremy. Then it closed again. I read in bed for half an hour and then I went to sleep."
+    },
+    {
+      "sfx": "A bedroom door opening and closing softly down a hallway, no music",
+      "sfx_seconds": 1.8
+    },
+    {
+      "speaker": "granger",
+      "text": "What time did you get up this morning?"
+    },
+    {
+      "speaker": "amanda",
+      "text": "I got up at about seven fifteen. I had breakfast and at eight o'clock I took a cup of tea to my husband. I found him in bed. He was dead."
+    },
+    {
+      "speaker": "granger",
+      "text": "Tell me, Mrs. Travers, did you love your husband?"
+    },
+    {
+      "speaker": "amanda",
+      "text": "Jeremy is... was a difficult man."
+    },
+    {
+      "speaker": "granger",
+      "text": "But did you love him, Mrs. Travers?"
+    },
+    {
+      "speaker": "amanda",
+      "text": "No, Detective. I hated him."
+    }
+  ]
+}

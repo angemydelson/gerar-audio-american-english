@@ -1,0 +1,36 @@
+{
+  "id": "my_dreams_stef",
+  "title": "About Me and My Dreams",
+  "language": "en",
+  "music": "Hopeful travel film score, acoustic guitar and light strings, open and warm, no vocals, instrumental only",
+  "pause_ms_between_segments": 450,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_speaker": "stef",
+  "intro_text": "About me.",
+  "voices": {
+    "stef": {
+      "voice_id": "cgSgspJ2msm6clMCkdW9",
+      "name": "Jessica",
+      "description": "Stef: jovem americana, animada",
+      "stability": 0.32,
+      "similarity_boost": 0.82,
+      "style": 0.50,
+      "speed": 1.03
+    }
+  },
+  "segments": [
+    {
+      "speaker": "stef",
+      "text": "Hi! I'm Stef, a traveler from Germany with a passion for travel, food, and photography. During my studies, I worked in the Canary Islands and in Argentina and I studied for two semesters in the UK. After I finished, I decided that I didn't want to work for the rest of my life. I was twenty-one and couldn't imagine sitting in an office for the next forty years or more. So, I decided to go to Australia on a working vacation visa. First, I worked for six months in Germany because I needed to save some money. I went to Sydney at the end of twenty eleven. I spent Christmas on St. Kilda Beach in Melbourne, I worked in a restaurant, and then I traveled all over Australia and New Zealand."
+    },
+    {
+      "speaker": "stef",
+      "text": "After coming back, I got a job as a project assistant in an IT company, an office job. I was happy to have a routine again, but I spent all my vacations traveling, to Thailand, Istanbul, Portugal, Indonesia, Chile, Belize, and Morocco. Some months passed, but finally I realized what I wanted to do with my life, at least for now. Having experiences is very important to me, more important than working in an office all week to pay for an apartment in which I hardly ever spend time in, and to buy things I don't really need. Three months ago, I left my job. I decided to work in different jobs, sometimes here, sometimes abroad, sometimes as a volunteer, sometimes for money. I have a lot of dreams and I want to make them come true."
+    },
+    {
+      "speaker": "stef",
+      "text": "My dreams. At the beginning of every year, I make a bucket list of one hundred things I would like to do. These are some of them. You can probably do them in your country, and you don't need to travel. Put a secret in a balloon and let it fly away. Go on vacation with my best friend. Take a photo every day for a year. Learn to windsurf. Ride a horse on the beach. Learn to play the guitar. Learn a new language. Read one book every week. Run through a field of flowers. Learn to dive and take underwater photos. Go for a walk in the summer rain. Go to a festival or an outdoor concert. Explore my hometown. Do karaoke. Make my best friend's dream come true. Do something that scares me. Make all the recipes in a cookbook. Get in a taxi and shout, follow that car."
+    }
+  ]
+}

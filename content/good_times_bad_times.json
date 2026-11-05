@@ -1,0 +1,19 @@
+{
+  "id": "good_times_bad_times",
+  "title": "Good times, bad times",
+  "language": "en",
+  "pause_ms_between_segments": 550,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "Good times, bad times.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Psychologist Dr. Cliff Arnall says the happiest day of the year is the second Friday in July. It's easy to see why – it's summer, it's warm outside, the evenings are light, and it's the day before a weekend! And the third Monday in January is the most depressing day of the year. Why? Because it's winter, the weather is usually gray and cold, the days are dark, and Monday is the first day of the working week. People are also often short of money after Christmas, and some people feel bad after breaking their New Year's resolutions."
+    },
+    {
+      "speaker": "host",
+      "text": "Do you agree? What's your favorite month, day, and time? And what's your least favorite?"
+    }
+  ]
+}

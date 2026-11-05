@@ -1,0 +1,20 @@
+{
+  "id": "trivia_night",
+  "title": "Trivia Night",
+  "language": "en",
+  "music": "Light playful quiz-show underscore, soft mallets and bass, easy tempo, no vocals, instrumental only",
+  "pause_ms_between_segments": 480,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "Trivia night!",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "A trivia quiz is a general knowledge quiz held in a bar or a restaurant. They started in the UK in the nineteen seventies and have become very popular in the US in the last ten years. Friends form teams, usually of about five or six people, and they decide on a name for their team. The person who asks the questions is called the M.C., or the master of ceremonies, and the teams write their answers on a piece of paper. You can't use your phone to look for the answers! In some trivia night competitions, teams pay to be part of the event, from about five dollars to twenty-five dollars a person, and the winning team gets the money. But a lot of trivia nights are free because restaurants and bars want people to come on nights that aren't usually busy, like Mondays and Tuesdays."
+    },
+    {
+      "speaker": "tips",
+      "text": "Tips for how to win. One. That's really what it's all about. And don't take it too seriously. Two. Make sure you have friends who are experts at different subjects. Three. Cell phones, reference books, newspapers, and so on, are not permitted. Four. Find out about events in the news, especially politics. Five. Memorize the winners of recent and past sporting events, Academy Awards, Grammys, reality TV shows, political elections, and so on, as well as the latest singles and album charts. Six. Always look out for new facts, wherever you are. Seven. If you don't win, remember, there is always next time."
+    }
+  ]
+}

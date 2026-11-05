@@ -1,0 +1,22 @@
+{
+  "id": "artists_self_portraits",
+  "title": "Kurt Vonnegut, Billy Dee Williams, and Adele",
+  "language": "en",
+  "pause_ms_between_segments": 650,
+  "include_intro": false,
+  "speak_labels": false,
+  "segments": [
+    {
+      "speaker": "kurt",
+      "text": "Kurt Vonnegut. Kurt Vonnegut was an American writer. He was born in nineteen twenty-two in Indianapolis. He was a soldier during World War Two, and was in a prison camp in Germany from nineteen forty-four to nineteen forty-five. His first novel was Player Piano, published in nineteen fifty-two, but it wasn't a success. However, his novel Slaughterhouse-Five, an anti-war book, was a best-seller, and was made into a movie in nineteen seventy-two. In his later life, he was interested in politics and painting. His art was an escape from the work of writing."
+    },
+    {
+      "speaker": "billy",
+      "text": "Billy Dee Williams. Billy Dee Williams is an American actor. He was born in New York in nineteen thirty-seven. His father was a caretaker and his mother was an elevator operator. He was a student at the High School of Music and Art. He was a theater actor for fifteen years, and in nineteen fifty-nine, he was in his first movie. He was very successful in the nineteen eighties, when he was in two Star Wars movies, The Empire Strikes Back and Return of the Jedi. Before he was an actor, Williams was at a fine arts academy in New York, and this self-portrait is in the National Portrait Gallery in Washington, D.C."
+    },
+    {
+      "speaker": "adele",
+      "text": "Adele. Adele is a British singer and songwriter. She was born Adele Laurie Blue Adkins in London in nineteen eighty-eight. When she was a child, she was much more interested in music than in schoolwork. When she was fourteen, her musical tastes were very different from most teenagers – she was a big fan of Billie Holiday and Eminem. She was a performing arts student at the BRIT School in London, where she was a classmate of singers Leona Lewis and Jessie J. Her first album, Nineteen, in two thousand eight, was an immediate success, and she is now a major star. Adele isn't a painter; this self-portrait was for an online art project called Face Britain."
+    }
+  ]
+}

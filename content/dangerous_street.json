@@ -1,0 +1,48 @@
+{
+  "id": "dangerous_street",
+  "title": "The Most Dangerous Place in the World to Cross the Street",
+  "language": "en",
+  "music": "Tense urban film underscore, low strings and a soft pulse, restrained, no vocals, instrumental only",
+  "pause_ms_between_segments": 450,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "The most dangerous place in the world to cross the street.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "If you want to cross the street in most countries, you wait for a gap in the traffic, and then you cross. But not in Ho Chi Minh City, where there's never a gap in the traffic. Apart from the cars, trucks, bikes, and buses, there are millions of motorcycles and scooters, which are the most popular form of transportation in Vietnam. Crossing the road is an adventure, and many tourists find it impossible. So, what can you do?"
+    },
+    {
+      "sfx": "Busy city street full of motorbikes and short horns, no voices, no music",
+      "sfx_seconds": 2.4
+    },
+    {
+      "speaker": "narrator",
+      "text": "Keep walking. The receptionist at my hotel told me,"
+    },
+    {
+      "speaker": "receptionist",
+      "text": "When it feels right, walk into the road. The most important thing to remember is to keep walking. Don't stop. Don't run. Don't look left or right. And don't walk in front of a bus, because they can't stop easily."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Cross with a local person. They know what they're doing, and this is the safest way for beginners. I looked for a middle-aged local man and I crossed the road with him. I made sure that he was between me and the traffic, and I prayed as I walked next to him. And I got to the other side!"
+    },
+    {
+      "speaker": "student",
+      "text": "Cross in a group. I met some students who were happy to walk across the street with me. But this time, when I saw a car coming straight at me, I stopped and put up my arm, like a traffic police officer. This was a big mistake."
+    },
+    {
+      "sfx": "One short car horn in traffic, no music",
+      "sfx_seconds": 1.2
+    },
+    {
+      "speaker": "narrator",
+      "text": "Find a police officer. There are really nice police officers in green uniforms, and their job is to help frightened tourists cross the road."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Take a taxi. For one or two dollars, they take you anywhere you want to go."
+    }
+  ]
+}

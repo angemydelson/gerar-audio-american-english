@@ -1,0 +1,31 @@
+{
+  "id": "superstar_dj_david_guetta",
+  "title": "The Superstar DJ David Guetta",
+  "language": "en",
+  "pause_ms_between_segments": 500,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "A day in the life. The Superstar DJ, David Guetta.",
+  "segments": [
+    {
+      "speaker": "david",
+      "text": "I wake up at about one p.m., and the first thing I do is go outside. I live in Ibiza, and I like having breakfast in the sun. I usually have fruit juice, eggs, fruit, and tea. I never drink coffee. After breakfast, I answer my emails for an hour. Then I go to the gym."
+    },
+    {
+      "speaker": "david",
+      "text": "I never listen to music in the house, or even in the car, because music is my job. On a typical day, I spend two or three hours in my studio, and then another four hours at a nightclub. My work starts in the evening. I usually have dinner in a restaurant, and then I go to the club. I try to have a normal life, but my job isn't normal. I arrive at a club like a secret agent – I go in through the back door and security takes me to the stage."
+    },
+    {
+      "speaker": "david",
+      "text": "I finish work at four in the morning. Security takes me out, and then I go home. After about four hours playing music, I'm very excited. My manager says,"
+    },
+    {
+      "speaker": "manager",
+      "text": "Go home and sleep."
+    },
+    {
+      "speaker": "david",
+      "text": "But that's impossible. First I need to calm down. When I get home, I have a cup of tea, brush my teeth, and say, thank you for this wonderful life. I am forty-seven now, but I want to do this when I'm sixty or eighty. I want to do this forever."
+    }
+  ]
+}

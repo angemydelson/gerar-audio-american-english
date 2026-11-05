@@ -1,0 +1,28 @@
+{
+  "id": "detective_novel",
+  "title": "How the Modern Detective Novel Was Born",
+  "language": "en",
+  "music": "Quiet mystery film score, low strings and a distant piano, slow and sparse, no vocals, instrumental only",
+  "pause_ms_between_segments": 550,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "How the modern detective novel was born.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Millions of readers, like me, love the books of Gillian Flynn and Ruth Rendell, of Lee Child and Laura Lippman. But most fans of modern crime fiction know very little about the writers who invented the modern detective novel."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Many of the best early detective stories were short stories. Edgar Allan Poe, eighteen oh nine to eighteen forty-nine, was probably the author of the first detective story. Arthur Conan Doyle, eighteen fifty-nine to nineteen thirty, created perhaps the most famous detective, Sherlock Holmes. Father Brown was also a detective who was nearly as popular as Holmes; he was created by G. K. Chesterton, eighteen seventy-four to nineteen thirty-six. Father Brown only appeared in short stories, and Sherlock Holmes appeared in over fifty short stories and only four novels, including The Hound of the Baskervilles, where he solves the mystery of an enormous ghost dog."
+    },
+    {
+      "speaker": "narrator",
+      "text": "In nineteen sixteen, in her book The Mysterious Affair at Styles, Agatha Christie introduced a new type of detective novel, and a new detective, Hercule Poirot. This book was a little bit different because the plot was more important than the characters and the writer asked readers to guess the name of the murderer. Later, in the nineteen thirties and forties, Dorothy Sayers wrote detective novels where the relationships between the characters were sometimes more interesting than the plot."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Reading can give us a fascinating view of the past, and when we read these detective stories and novels, we can also learn something about how people lived and thought in the nineteenth and twentieth centuries. These authors are still very popular. They influence present-day authors, such as J. K. Rowling, and they are probably going to inspire crime fiction for decades to come."
+    }
+  ]
+}

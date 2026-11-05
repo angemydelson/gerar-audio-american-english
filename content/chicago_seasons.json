@@ -1,0 +1,27 @@
+{
+  "id": "chicago_seasons",
+  "title": "What to do in Chicago at different times of the year",
+  "language": "en",
+  "pause_ms_between_segments": 550,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "What to do in Chicago at different times of the year.",
+  "segments": [
+    {
+      "speaker": "spring",
+      "text": "In the spring. Go to the Chicago Riverwalk. This is one of the highlights of Chicago. It's open all year round, and it's beautiful in the spring with all the trees and flowers. The Riverwalk is three point four miles long, and you can see tall buildings, boats on the river, outdoor art, and famous bridges, including the Michigan Avenue Bridge. If you don't want to walk, you can sit and people watch or enjoy a meal at a café. Remember to bring a jacket—the weather can be cool and windy in the spring."
+    },
+    {
+      "speaker": "summer",
+      "text": "In the summer. Go to the open air theater in Millennium Park. Open from April to November, this is a great place to listen to music, including classical, Broadway, and rock. Come prepared with a blanket or chair and an umbrella or a plastic raincoat. Concerts at this open air theater usually take place in all kinds of weather! You can buy a boxed meal or bring your own food. It's very popular, so get there early."
+    },
+    {
+      "speaker": "fall",
+      "text": "In the fall. Watch, or run, the Chicago Marathon. One of the biggest marathons in the US takes place in the fall every year, usually in October. About forty thousand people, including top runners and celebrities, run twenty-six point two miles through the city. There's a fantastic atmosphere. You can watch anywhere along the route, but the Chicago Theater and the finish, near Grant Park, are my favorite places. The fall in Chicago usually means good weather, but be prepared for rain or sun—just in case!"
+    },
+    {
+      "speaker": "winter",
+      "text": "In the winter. Visit the Art Institute of Chicago. Chicago is full of wonderful museums, where you can happily spend a cold winter's day. My favorite is the Art Institute of Chicago. It's one of the world's top museums. It has more than three hundred thousand works of art, including amazing collections of paintings, sculptures, ceramics, and glass. Collections include works by artists Grant Wood, Edward Hopper, Georges Seurat, and Marc Chagall. It has special activities for children, and several great cafés, open until four. There is an entrance fee for adult visitors, but children under thirteen are free."
+    }
+  ]
+}

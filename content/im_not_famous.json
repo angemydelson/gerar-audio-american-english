@@ -1,0 +1,35 @@
+{
+  "id": "im_not_famous",
+  "title": "I'm not famous... but my brother is",
+  "language": "en",
+  "pause_ms_between_segments": 550,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "I'm not famous... but my brother is.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Doug is a businessman, and a photographer. He is also the founder of Care to Learn, an organization that helps poor children in the US do well in school. He's married with three children, and he and his family have a normal life. But for many people, he is always blank's brother."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Doug's life can be difficult. People follow him on the street. They ask him questions about his brother, his brother's ex-wife, who is also very famous, and their six children. The paparazzi follow Doug's children and take photographs."
+    },
+    {
+      "speaker": "narrator",
+      "text": "But it also has advantages."
+    },
+    {
+      "speaker": "doug",
+      "text": "I go to movie premieres and I meet famous actors. And when I call people and ask for money for Care to Learn, it helps when I say I'm blank's brother."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Doug is not jealous of his older brother. He is happy with his life."
+    },
+    {
+      "speaker": "doug",
+      "text": "I see the world of famous people from the outside. I can leave it, but my brother can't."
+    }
+  ]
+}

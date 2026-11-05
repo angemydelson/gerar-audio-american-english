@@ -1,0 +1,31 @@
+{
+  "id": "the_moment_i_wake_up",
+  "title": "The Moment I Wake Up",
+  "language": "en",
+  "pause_ms_between_segments": 500,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "The moment I wake up.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Getting up in the morning is hard, but for many people, music seems to help them start the day. There is actually a list of perfect wake-up songs compiled by a psychologist, David M. Greenberg, using data from the music download website, Spotify."
+    },
+    {
+      "speaker": "host",
+      "text": "When choosing the perfect wake-up songs, Greenberg considered things like how the music builds up, positive lyrics, and strong rhythm. He says that the music needs to start gently, and then slowly build up to help people to wake up. It must have positive lyrics to change people's mood from bad to good. The rhythm also needs to be strong, with a lot of bass and drums."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Greenberg's top choice of song is Viva La Vida, by Coldplay, which has all the three necessary elements."
+    },
+    {
+      "speaker": "greenberg",
+      "text": "Science shows that music affects us in all kinds of ways, including emotionally, physiologically, and in the brain. The right music – like Viva La Vida, with its positive energy and strong momentum – can help you wake up and feel energetic for the rest of your day."
+    },
+    {
+      "speaker": "host",
+      "text": "What's your favorite wake-up song? Leave your comments below."
+    }
+  ]
+}

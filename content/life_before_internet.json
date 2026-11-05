@@ -1,0 +1,72 @@
+{
+  "id": "life_before_internet",
+  "title": "Life before the Internet",
+  "language": "en",
+  "music": "Nostalgic light film score, soft piano and warm strings, gentle and nostalgic, no vocals, instrumental only",
+  "pause_ms_between_segments": 480,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "Life before the internet.",
+  "voices": {
+    "narrator": {
+      "voice_id": "pNInz6obpgDQGcFmaJgB",
+      "name": "Adam",
+      "description": "Narrador nostálgico americano",
+      "stability": 0.52,
+      "similarity_boost": 0.78,
+      "style": 0.18,
+      "speed": 0.96
+    },
+    "francesca": {
+      "voice_id": "cgSgspJ2msm6clMCkdW9",
+      "name": "Jessica",
+      "description": "Francesca: jovem, confusa",
+      "stability": 0.35,
+      "similarity_boost": 0.80,
+      "style": 0.40,
+      "speed": 1.02
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "This morning in the office somebody mentioned carbon paper."
+    },
+    {
+      "speaker": "francesca",
+      "text": "What's that?"
+    },
+    {
+      "speaker": "narrator",
+      "text": "asked our intern Francesca. She genuinely had no idea. For all of you who are too young to remember, we used carbon paper to make one or two copies of a document as it was typed. That's where the term cc, or carbon copy, came from. After that conversation, we started to remember life before the internet. Can you remember any of these?"
+    },
+    {
+      "speaker": "narrator",
+      "text": "Fax machines. Sending an email is so easy these days, but some years ago, when you needed to send something to somebody urgently and the mail was too slow, you sent a fax. When they were introduced in the nineteen seventies, people thought they were a technological miracle. You can print something and send it over the phone in seconds! Magic!"
+    },
+    {
+      "sfx": "A short old fax machine beep and a page feeding, no music",
+      "sfx_seconds": 1.6
+    },
+    {
+      "speaker": "narrator",
+      "text": "The Yellow Pages. If you needed to make an appointment with your hair stylist or call for Chinese take-out, what did you do? You looked up the phone number or address in a big fat yellow book, the Yellow Pages. Amazingly, it still exists online."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Encyclopedias. When you needed information for your homework, or to win an argument, you looked it up in an enormous encyclopedia, sometimes ten or twelve books of information in alphabetical order. Some people had them at home, or they went to a library."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Walkmans. This is how we listened to music. A Walkman was a lot heavier than an MP3 player! And if you didn't have the cassette or CD of a song, you couldn't listen to it."
+    },
+    {
+      "sfx": "A cassette Walkman button click and a tiny bit of tape hiss, no music",
+      "sfx_seconds": 1.3
+    },
+    {
+      "speaker": "narrator",
+      "text": "A Thomas Guide. If you had a meeting or job interview, or you wanted to go to a new restaurant in a part of town you didn't know, what did you always take with you? Your Thomas Guide maps. And your reading glasses to read the street names, because they were so small!"
+    }
+  ]
+}

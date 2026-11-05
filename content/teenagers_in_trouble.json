@@ -1,0 +1,43 @@
+{
+  "id": "teenagers_in_trouble",
+  "title": "Teenagers in trouble",
+  "language": "en",
+  "pause_ms_between_segments": 450,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "Teenagers in trouble.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "American teenagers may, for the first time in the nation's history, live shorter lives than their parents because of their unhealthy lifestyles. According to recent research:"
+    },
+    {
+      "speaker": "teen_a",
+      "text": "Ninety-six percent spend more than five hours looking at a screen every day."
+    },
+    {
+      "speaker": "teen_b",
+      "text": "Eighty-six percent hardly ever eat fruit or green vegetables."
+    },
+    {
+      "speaker": "teen_c",
+      "text": "Seventy-five percent don't usually sleep for eight hours a day – the average is seven hours."
+    },
+    {
+      "speaker": "teen_a",
+      "text": "Thirty-four percent eat fast food at least once a day."
+    },
+    {
+      "speaker": "teen_b",
+      "text": "Thirty-three percent drink more than four sugary drinks every day."
+    },
+    {
+      "speaker": "teen_c",
+      "text": "Thirty-one percent are often very stressed."
+    },
+    {
+      "speaker": "stats",
+      "text": "Twenty-five percent never play sports or exercise."
+    }
+  ]
+}

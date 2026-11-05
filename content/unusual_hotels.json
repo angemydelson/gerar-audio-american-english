@@ -1,0 +1,36 @@
+{
+  "id": "unusual_hotels",
+  "title": "The World's Most Unusual Hotels",
+  "language": "en",
+  "music": "Sparse travel film score, soft acoustic guitar and warm pads, slow and gentle, no drums, no vocals, instrumental only",
+  "pause_ms_between_segments": 500,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "The world's most unusual hotels.",
+  "segments": [
+    {
+      "sfx": "Soft ocean waves and a distant spa pool, no voices, no music",
+      "sfx_seconds": 2.0
+    },
+    {
+      "speaker": "narrator",
+      "text": "A. For people who love nature. Verana, in Puerto Vallarta in Mexico, is an amazing spa hotel with beautiful views on all sides. It has ten guesthouses, and four new buildings with balconies above the trees, from where you can see the beautiful Bay of Banderas. The spa has an infinity pool and offers a variety of different spa treatments, as well as yoga classes. You can go whale-watching, go fishing for tuna, and explore the area on foot. This is the perfect place for your wedding, your honeymoon, or both. But remember, you can only get there by boat!"
+    },
+    {
+      "sfx": "A deep cave, one water drip, very quiet, no music, no voices",
+      "sfx_seconds": 2.0
+    },
+    {
+      "speaker": "narrator",
+      "text": "B. Would you like to sleep in a mine? Then book the underground suite in Sala Silvermine in Sweden, and enjoy the world's deepest bedroom, five hundred eight feet below the surface. Although the corridors are cold and dark, your rooms are warm, sixty-four degrees, and the light comes from candles in beautiful silver candlesticks. You can also explore the caves and magical lakes with a guide. There are no other guests, so it's not for nervous people. Cell phones don't work, but you have a radio for emergencies. In the morning, they bring breakfast down to you. Perfect for romantic couples who like a little bit of adventure."
+    },
+    {
+      "sfx": "Two husky dogs, a short friendly bark and panting, snowy outdoors, no music",
+      "sfx_seconds": 1.8
+    },
+    {
+      "speaker": "narrator",
+      "text": "C. You don't need to travel to the Arctic Circle to spend time with Siberian huskies. At the Husky Lodge in the mountains of Switzerland, dog-lovers can sleep in cabins, heated with wood fires, next to the dogs' kennels. During the day you can join in with their training runs. They pull sledges in the winter and bikes and carts in the summer. In the evening, there's an excellent restaurant. And if you have to work, there are three rooms for small conferences and seminars. If you can't afford the cabins, there's a campsite, too, though maybe only in summer!"
+    }
+  ]
+}

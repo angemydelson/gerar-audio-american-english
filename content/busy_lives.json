@@ -1,0 +1,39 @@
+{
+  "id": "busy_lives",
+  "title": "Busy lives",
+  "language": "en",
+  "pause_ms_between_segments": 500,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "Busy lives.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Marjan Jahangiri, originally from Iran, is one of the only women professors of cardiac surgery in Europe. She does more than 300 operations a year. She lives in London with her husband and their seventeen-year-old son, Darius."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe your daily routine?"
+    },
+    {
+      "speaker": "marjan",
+      "text": "I get up between six and six thirty a.m. I get to work at seven, and my meetings usually start at seven thirty. After that, I don't have a break. I have lunch at my desk. I often do two operations a day, and I also have lectures and more meetings. At home, I have dinner with my son. Between nine thirty and eleven thirty p.m., I do research and I watch the news on TV. One or two nights a week I'm on call, so I probably need to do operations during the night. I often work on weekends, too. But that's OK – I think I have a great life because I love my work."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How do you balance work with your family life?"
+    },
+    {
+      "speaker": "marjan",
+      "text": "I spend a lot of time with my son. I want him to learn about hard work and good values, and I want to be an example for him. My husband is away a lot, but we talk on the phone every day. I think one reason why I am successful in my professional life is because he isn't at home all the time!"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "What do you do to relax?"
+    },
+    {
+      "speaker": "marjan",
+      "text": "I play the piano for an hour every day, late at night. I think it helps me with my operations – it's technical in the same way. I also go to the hair stylist twice a week. I do a lot of my research there! They turn the music off for me, and I use the time to read all my academic papers."
+    }
+  ]
+}

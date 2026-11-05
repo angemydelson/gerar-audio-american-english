@@ -1,0 +1,41 @@
+{
+  "id": "americans_abroad",
+  "title": "What Americans Who Live Abroad Think About Other Countries",
+  "language": "en",
+  "pause_ms_between_segments": 650,
+  "include_intro": true,
+  "speak_labels": true,
+  "intro_text": "What Americans Who Live Abroad Think About Other Countries",
+  "segments": [
+    {
+      "speaker": "sarah",
+      "label": "Sarah, thirty-six, from New York, living in the UK.",
+      "text": "In the US, we work really hard. Sometimes we don't take vacations because we work so hard. British people are different. They only want to finish work and go home."
+    },
+    {
+      "speaker": "amy",
+      "label": "Amy, twenty-two, from Tennessee, living in Thailand.",
+      "text": "I really like the weather. It's very hot and it rains a lot from June to October. Also, the people are very friendly. Everybody smiles. I love it!"
+    },
+    {
+      "speaker": "jayne",
+      "label": "Jayne, twenty-two, from Connecticut, living in Argentina.",
+      "text": "Argentina is a beautiful country, and the people are very warm and friendly. They like to talk to foreigners and they are interested in other countries. Something I don't like is the weather in winter. Sometimes it's very cold."
+    },
+    {
+      "speaker": "gaby",
+      "label": "Gaby, thirty, from Minnesota, living in Mexico.",
+      "text": "My favorite thing in Mexico is the tacos al pastor. We don't have tacos al pastor in the US. Some people think Mexican food is spicy, but I love it. Everything about Mexico is great except the traffic in Mexico City. It's very slow."
+    },
+    {
+      "speaker": "eric",
+      "label": "Eric, twenty-eight, from New York, living in Iceland.",
+      "text": "Iceland can be very cold and gray. And it rains a lot! For me, food is a problem. They eat a lot of fish and seafood here, and I don't like fish or seafood."
+    },
+    {
+      "speaker": "christina",
+      "label": "Christina, twenty-one, from California, living in Morocco.",
+      "text": "I love Morocco. Why? Because I like the culture, the art, the history. It's a beautiful country, too, especially the Atlas Mountains. The only thing I don't like? It's difficult for a woman to travel alone."
+    }
+  ]
+}

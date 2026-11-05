@@ -1,0 +1,49 @@
+{
+  "id": "things_i_didnt_know",
+  "title": "Things I Didn't Know Until I Got Here",
+  "language": "en",
+  "music": "Warm human documentary score, soft piano and strings, gentle, no vocals, instrumental only",
+  "pause_ms_between_segments": 550,
+  "include_intro": true,
+  "speak_labels": true,
+  "intro_speaker": "narrator",
+  "intro_text": "Things I didn't know until I got here. What was a surprise for you when you came to live in the US?",
+  "voices": {
+    "narrator": {
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "name": "Brian",
+      "description": "Host americano, documental",
+      "stability": 0.50,
+      "similarity_boost": 0.78,
+      "style": 0.20,
+      "speed": 0.97
+    }
+  },
+  "segments": [
+    {
+      "speaker": "lena",
+      "label": "Lena, from Ukraine.",
+      "text": "When I eat out with my husband or friends, we usually share because serving sizes are huge and we don't want all that food. But you can take home everything you don't eat, and I like that. In the winter, you often see people on the street or the subway who are wearing just a T-shirt when it's really cold outside."
+    },
+    {
+      "speaker": "rahim",
+      "label": "Rahim, from Pakistan.",
+      "text": "When people speak to their boss, and to their teachers, they call them by their first name. They do the same to old people, too, even when they don't know them well. It doesn't seem polite to me."
+    },
+    {
+      "speaker": "natasha",
+      "label": "Natasha, from Belarus.",
+      "text": "The American president's salary is about the same as a doctor's. He isn't the richest person in the country. That surprised me! Some hospitals are like smart hotels, but a lot of people can't go there because they don't have medical insurance. Also, doctors don't always explain everything to their patients in my country. Here, they tell you everything."
+    },
+    {
+      "speaker": "tara",
+      "label": "Tara, from India.",
+      "text": "I couldn't believe the tipping system, for example, in places like a hair salon. You cut my hair and I pay you, a lot! Why do I need to give you a tip too? Public transportation can be dangerous in India. But at night, on the subway here in New York, going home late at night, when a group of people got on, they were very loud and we were frightened. But at the next stop, two police officers got on. The people stopped shouting when they saw the police. I felt really safe."
+    },
+    {
+      "speaker": "julie",
+      "label": "Julie, from Canada.",
+      "text": "My husband is from Ecuador, and when he first arrived, he was really surprised by his salary. As a chef, he could earn enough money to pay bills, buy food, pay rent, have a good social life, and buy luxuries like our Xbox. In Quito, he worked fifteen hours a day, and more on the weekend, and he earned half the money."
+    }
+  ]
+}

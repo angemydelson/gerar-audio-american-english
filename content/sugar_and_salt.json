@@ -1,0 +1,16 @@
+{
+  "id": "sugar_and_salt",
+  "title": "Fascinating Facts about Sugar and Salt",
+  "language": "en",
+  "music": "Curious short documentary underscore, soft marimba and pads, light, no vocals, instrumental only",
+  "pause_ms_between_segments": 400,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "Fascinating facts about sugar and salt.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "At different times in history, both sugar and salt were called white gold because they were so expensive and difficult to get. But there are many more interesting facts about sugar and salt."
+    }
+  ]
+}

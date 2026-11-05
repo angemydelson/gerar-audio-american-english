@@ -1,0 +1,20 @@
+{
+  "id": "same_thing_every_day",
+  "title": "Why I Eat the Same Thing Every Day",
+  "language": "en",
+  "music": "Easy everyday film underscore, light acoustic guitar, calm and slightly playful, no vocals, instrumental only",
+  "pause_ms_between_segments": 500,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "Why I eat the same thing every day.",
+  "segments": [
+    {
+      "speaker": "eater",
+      "text": "Steve Jobs, Mark Zuckerberg, and Albert Einstein have one thing in common. They all wear, or wore, more or less the same clothes every day. Why? Because if you wear the same clothes every day, you don't waste time choosing what to wear. I decided to copy them, but with my diet, so I eat the same food every day. This is what I have. Breakfast: a cup of black coffee. Lunch: some smoked salmon, an avocado, and some cream cheese on a piece of bread. Dinner: some bacon, two eggs, some cheese, and some green vegetables."
+    },
+    {
+      "speaker": "eater",
+      "text": "The good thing about this plan for me is that I spend less time and money buying food, and I also never need to worry if my diet is healthy or not, because I know it is. Now, you're probably thinking, he's sure to get tired of eating the same food every day. Well, after about a year, I can promise you that I'm not. I change my meals a bit by having different kinds of cheese and using different herbs and spices. I also change the vegetables that I have for dinner."
+    }
+  ]
+}

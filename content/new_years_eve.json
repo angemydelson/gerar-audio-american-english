@@ -1,0 +1,26 @@
+{
+  "id": "new_years_eve",
+  "title": "New Year's Eve – one to remember or one to forget?",
+  "language": "en",
+  "pause_ms_between_segments": 600,
+  "include_intro": true,
+  "speak_labels": true,
+  "intro_text": "New Year's Eve – one to remember or one to forget?",
+  "segments": [
+    {
+      "speaker": "mina",
+      "label": "Mina.",
+      "text": "This was last year, and I went to a hotel with some friends. It had a restaurant on the top floor, and that's where the party was. We got there at about eleven. About half an hour before midnight I realized I didn't have my phone – it was in my car. So I took the elevator down to the parking lot. I found my phone, and then I got back into the elevator – I was the only person in it. But then, between the third and fourth floors, the elevator stopped completely and I couldn't get out. I pressed the button and asked for help, but a guy said there was an electrical problem and I needed to wait. Then a few minutes later, I could hear people outside celebrating. It was awful – I didn't get out until almost one in the morning. And on top of it all, my friends didn't realize that I wasn't there!"
+    },
+    {
+      "speaker": "jenny",
+      "label": "Jenny.",
+      "text": "I had a fantastic New Year's Eve in Iceland in twenty thirteen. First, we went to a really expensive restaurant for dinner. It was early, about six, because that's when people have dinner in Iceland. I wore a fantastic dress, but after dinner we got a taxi back to the hotel and I put on boots and a warm jacket. Then we went out and watched the amazing fireworks. Suddenly, at about ten, everyone went home to watch TV – there's this famous TV show they always watch on New Year's Eve! It was really strange – the streets were empty for a little bit. But then just before midnight, people came out again and danced and sang till about five in the morning. It was incredible."
+    },
+    {
+      "speaker": "andy",
+      "label": "Andy.",
+      "text": "I'm a DJ, and this happened to me a few years ago. It was my first time at a New Year's Eve party, and I planned all the music really carefully. I knew exactly which tracks I was going to play. The first part of the night was fine, but just when I thought it was time to start the countdown to midnight, I saw that people were all at the bar, not on the dance floor, and the TVs were on. On the screens I could see fireworks! I looked at my watch and I realized it was about two minutes slow! I felt really stupid. I bought a new watch the next day!"
+    }
+  ]
+}

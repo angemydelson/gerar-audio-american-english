@@ -1,0 +1,71 @@
+{
+  "id": "the_glass_bottle",
+  "title": "The Glass Bottle",
+  "language": "en",
+  "pause_ms_between_segments": 500,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "The Glass Bottle. Part one.",
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Hassan and Walid are brothers. They live in a small house in the desert, near the mountains, a long way from a town or village. They're very poor. They have no money and they have no animals. Their house only has two rooms. Every day is the same. They get up, and they have sweet black coffee for breakfast. Then Hassan works in the fields – but Walid just sits and looks at the hot, empty desert and the hot, empty sky. They live with their mother. She takes care of them, but she's old and tired."
+    },
+    {
+      "speaker": "narrator",
+      "text": "One day she says,"
+    },
+    {
+      "speaker": "mother",
+      "text": "We're poor and hungry. Why don't you leave here and find work? We need money for food and clothes."
+    },
+    {
+      "speaker": "walid",
+      "text": "If you want some money, you have your silver ring – you can sell that."
+    },
+    {
+      "speaker": "mother",
+      "text": "I can't sell it. It's your father's. Every night I look at it and remember him."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Hassan wants to help his mother, and he decides to leave home. His mother gives him bread, and water in a glass bottle. He kisses her, and he walks towards the mountains."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Part two. Hassan walks for five days through the mountains. The sun shines. At night, it's very cold. Then one evening, he arrives at a rich and beautiful palace. The prince in the palace welcomes him. He gives him food and drink, and Hassan sleeps in a comfortable bed. There is one strange thing – the windows have no glass. The next day, Hassan says goodbye. He wants to thank the prince and give him something, but he only has his empty water bottle. He gives it to him. The prince is very surprised."
+    },
+    {
+      "speaker": "prince",
+      "text": "What's this? I can see through it! It's beautiful! It's wonderful!"
+    },
+    {
+      "speaker": "narrator",
+      "text": "He is very happy, and in return, he gives Hassan a box."
+    },
+    {
+      "speaker": "prince",
+      "text": "Don't open it until you get home. And be careful with it. It's very valuable."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Hassan walks through the mountains again, and after five days, he arrives home. Walid and their mother watch him open the box. He finds one hundred gold coins inside. His mother is very happy!"
+    },
+    {
+      "speaker": "mother",
+      "text": "Hassan, you clever boy! Now we can buy food and clothes!"
+    },
+    {
+      "speaker": "narrator",
+      "text": "The next night, Walid makes a plan."
+    },
+    {
+      "speaker": "walid",
+      "text": "One hundred gold coins in return for a glass bottle. If I give the prince my mother's silver ring, perhaps I can get one thousand gold coins!"
+    },
+    {
+      "speaker": "narrator",
+      "text": "So Walid gets up, goes very quietly into his mother's room, and takes her ring from a box under her bed. The next morning, he asks his brother where the palace is, and he leaves."
+    }
+  ]
+}

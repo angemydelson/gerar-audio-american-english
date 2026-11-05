@@ -1,0 +1,27 @@
+{
+  "id": "haunted_room",
+  "title": "Would you like to stay in a haunted room?",
+  "language": "en",
+  "pause_ms_between_segments": 550,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "Would you like to stay in a haunted room? The US is well-known for having houses and hotels with ghosts, but did you know there was one in downtown Hollywood?",
+  "segments": [
+    {
+      "speaker": "haunt_doc",
+      "text": "The Hollywood Roosevelt is a famous Los Angeles hotel situated near the Chinese Theater. The hotel was built in nineteen twenty-seven and has three hundred rooms. In the past, many famous people stayed at the hotel, including Marilyn Monroe, F. Scott Fitzgerald, and Prince. Montgomery Clift, who starred in From Here to Eternity, also stayed there while filming the movie. More recently, the hotel appeared in the movie Catch Me if You Can and the TV show Curb Your Enthusiasm."
+    },
+    {
+      "speaker": "haunt_spooky",
+      "text": "The Hollywood Roosevelt has the reputation of being haunted, especially rooms twelve hundred and nine twenty-four. People say the hotel has several ghosts, including Marilyn Monroe who haunts room twelve hundred. She lived there during happier times in the nineteen fifties. Guests say they see Marilyn in the room's mirror. Montgomery Clift appears in room nine twenty-four. A recent guest in that room reported she got up to open the window and felt someone pat her back. Others say Clift plays the trumpet in the room. In addition, other guests claim to see a young girl in a blue dress walk through the hotel's halls."
+    },
+    {
+      "speaker": "guest",
+      "text": "When a partygoer went to the hotel's ballroom for an Oscars Viewing Party last March, he reported that a strange thing happened during the event. He posted on Twitter: Fabulous party, but it was very cold in one part of the ballroom—like ten degrees colder. Weird!"
+    },
+    {
+      "speaker": "haunt_doc",
+      "text": "The hotel hosted the first Academy Awards in nineteen twenty-nine. Some psychics say there is a ghost anxiously waiting in this cold spot. Perhaps he is waiting for his Academy Award!"
+    }
+  ]
+}

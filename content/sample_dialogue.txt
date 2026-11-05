@@ -1,0 +1,6 @@
+# Exemplo de entrada alternativa (.txt / .dialogue)
+# Formato: Speaker: texto
+
+Narrator: Welcome to today's listening practice.
+Amy: I really like the weather in Thailand. Everybody smiles!
+Eric: Iceland can be very cold and gray. Food is a problem for me.

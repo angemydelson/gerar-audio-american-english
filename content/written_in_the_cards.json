@@ -1,0 +1,145 @@
+{
+  "id": "written_in_the_cards",
+  "title": "It's Written in the Cards",
+  "language": "en",
+  "music": "Mysterious fortune-teller film score, soft strings and a quiet music-box motif, slow, no vocals, instrumental only",
+  "pause_ms_between_segments": 400,
+  "include_intro": true,
+  "speak_labels": false,
+  "intro_text": "It's written in the cards.",
+  "voices": {
+    "narrator": {
+      "voice_id": "SAz9YHcvj6GT2YYXdXww",
+      "name": "River",
+      "description": "Narrador misterioso, neutro americano",
+      "stability": 0.50,
+      "similarity_boost": 0.78,
+      "style": 0.25,
+      "speed": 0.95
+    },
+    "fortune": {
+      "voice_id": "pqHfZKP75CvOlQylNhV4",
+      "name": "Bill",
+      "description": "Cartomante: grave, misterioso",
+      "stability": 0.62,
+      "similarity_boost": 0.78,
+      "style": 0.30,
+      "speed": 0.90
+    },
+    "jane": {
+      "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+      "name": "Laura",
+      "description": "Jane: curiosa, nervosa",
+      "stability": 0.38,
+      "similarity_boost": 0.82,
+      "style": 0.42,
+      "speed": 1.0
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Part one."
+    },
+    {
+      "sfx": "Two soft knocks on a wooden door, then the door opens, no music",
+      "sfx_seconds": 1.8
+    },
+    {
+      "speaker": "fortune",
+      "text": "Come in."
+    },
+    {
+      "speaker": "narrator",
+      "text": "said a voice. Jane Ross opened the door and went into a small room. There was a man sitting behind a table."
+    },
+    {
+      "speaker": "jane",
+      "text": "Good afternoon. I want to see Madame Yolanda, the fortune-teller."
+    },
+    {
+      "speaker": "fortune",
+      "text": "Madame Yolanda is not here today. But don't worry. I'm going to tell you about your future. What questions do you want to ask?"
+    },
+    {
+      "speaker": "narrator",
+      "text": "said the man."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Jane looked at the fortune-teller. She couldn't see him very well because the room was very dark."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Part three. He turned over the second card."
+    },
+    {
+      "sfx": "One playing card flipped onto a wooden table, close and dry, no music",
+      "sfx_seconds": 1.1
+    },
+    {
+      "speaker": "fortune",
+      "text": "Mm, a house. A new house. You're going to move, very soon, to another country."
+    },
+    {
+      "speaker": "jane",
+      "text": "But my boyfriend works here. He can't move to another country."
+    },
+    {
+      "speaker": "fortune",
+      "text": "Let's look at the next card."
+    },
+    {
+      "speaker": "narrator",
+      "text": "said the fortune-teller. He turned over the third card."
+    },
+    {
+      "sfx": "One playing card flipped onto a wooden table, close and dry, no music",
+      "sfx_seconds": 1.1
+    },
+    {
+      "speaker": "fortune",
+      "text": "A heart. You're going to fall in love."
+    },
+    {
+      "speaker": "jane",
+      "text": "Who with?"
+    },
+    {
+      "speaker": "fortune",
+      "text": "Let me concentrate. I can see a tall, dark man. He's very attractive."
+    },
+    {
+      "speaker": "jane",
+      "text": "Oh, that's Jim."
+    },
+    {
+      "speaker": "narrator",
+      "text": "said Jane."
+    },
+    {
+      "speaker": "fortune",
+      "text": "Who's Jim? Your boyfriend?"
+    },
+    {
+      "speaker": "jane",
+      "text": "No. Jim is a man I met at a party last month. He's an actor, from New York. He says he's in love with me. It was his idea for me to come to Madame Yolanda."
+    },
+    {
+      "speaker": "fortune",
+      "text": "Well, the card says that you're going to fall in love with him."
+    },
+    {
+      "speaker": "jane",
+      "text": "Are you sure? But what about my boyfriend?"
+    },
+    {
+      "speaker": "fortune",
+      "text": "Let's look at the fourth card."
+    },
+    {
+      "sfx": "One playing card flipped onto a wooden table, close and dry, no music",
+      "sfx_seconds": 1.1
+    }
+  ]
+}
